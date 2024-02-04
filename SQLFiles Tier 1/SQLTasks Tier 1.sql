@@ -28,7 +28,7 @@ to your GitHub.
 
 Before starting with the questions, feel free to take your time,
 exploring the data, and getting acquainted with the 3 tables. */
-
+/*test_git
 
 /* QUESTIONS 
 /* Q1: Some of the facilities charge a fee to members, but some do not.
